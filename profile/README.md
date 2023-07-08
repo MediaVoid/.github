@@ -1,4 +1,4 @@
-Image goes here
+![mediavoid_banner](https://github.com/MediaVoid/.github/assets/80487462/22e70f67-2c9b-40b8-912a-85949b11353f)
 
 # Media Void - Discord Community for Media Enthusiasts
 
